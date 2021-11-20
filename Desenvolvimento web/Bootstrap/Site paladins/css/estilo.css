@@ -1,0 +1,39 @@
+.navbar {
+    background-color: black !important;
+}
+
+.navbar a {
+    color: white !important;
+}
+
+.d-flex button {
+    background-color: white;
+    color           : black;
+}
+
+.carousel {
+    padding: 5px 0px 5px 0px;
+}
+
+.row {
+    padding: 15px 0px 0px 0px !important;
+}
+
+.container-fluid img {
+    width: 35px;
+}
+
+.footer {
+    background-color: black;
+    color           : white;
+    text-align      : center;
+    margin-top      : 15px;
+}
+
+.card {
+    border-radius: 5% !important;
+}
+
+.card-btn {
+    border-radius: 15% !important;
+}

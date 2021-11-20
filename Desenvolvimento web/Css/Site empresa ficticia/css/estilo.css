@@ -1,0 +1,93 @@
+.tudo{
+    width: 960px;
+    margin:auto;
+    box-shadow: 1px 2px 15px #333333;
+}
+
+.menu{
+    height: 72px;
+    background-color:#003650 ;
+    display: flex;
+    justify-content: space-between;
+    padding: 2px 20px 5px 20px;
+}
+
+.menu h2{
+    color:white;
+    margin-left: 42px;
+    font-family: 'Rubik', sans-serif;
+}
+
+.menu-opcoes{
+    line-height: 80px;
+    margin-right: 5px;
+    font-size: 15px; 
+}
+.menu-opcoes a{
+    margin-right: 80px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Rubik', sans-serif;
+}
+
+.apresentacao-texto{
+    background-color: #ebebeb ;
+    padding: 84px 164px 80px 164px;
+}
+.apresentacao-texto h2{
+    text-align: left;
+    font-family: 'Rubik', sans-serif;
+}
+.apresentacao-texto p{
+    text-align: justify;
+}
+.servicos{
+    background-color: #003650;
+    padding: 74px 54px 74px 54px;
+}
+.titulo h2{
+    color:white;
+    margin-left: 40px;
+    font-family: 'Rubik', sans-serif;
+}
+.servicos p{
+    color:white;
+    text-align: justify;
+}
+.servicos h2{
+    color:white;
+    font-family: 'Rubik', sans-serif;
+}
+.servico{
+    display:flex;
+}
+.services{
+  margin: 40px;
+}
+
+.clientes{
+    background-color: #ebebeb;
+    padding: 76px 74px 76px 74px;
+}
+.clientes img{
+    margin:20px;
+}
+.visita
+{
+    background-color: #003650; 
+    display: flex;
+    padding: 78px 80px 78px 80px ;
+}
+.mapa{
+    align-items: right;
+}
+.textos{
+    color:white;
+    
+}
+.rodape{
+    background-color: #ebebeb;
+    text-align: center;
+    padding: 5px;
+    color: #003650;
+}

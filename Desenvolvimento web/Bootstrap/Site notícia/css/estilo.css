@@ -1,0 +1,60 @@
+/*.row:nth-of-type(1){
+    display: flex!important;
+    flex-wrap: wrap;
+}*/
+
+.navbar-brand {
+    color: #DE0848!important;
+    font-family: 'Segoe UI';
+    font-style: italic;
+    font-weight: bold;
+}
+
+.navbar-nav {
+    padding: 0px 50px 0px 0px;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #DE0848 !important;
+    border: solid #DE0848 !important;
+}
+
+.footer {
+    background-color: #DE0848!important;
+}
+
+@media only screen and (max-width: 600px) {
+    .cards {
+        margin: 20px 0;
+    }
+    .card {
+        width: auto !important;
+    }
+    .cards div h4 {
+        margin-top: 50px !important;
+    }
+}
+
+.col-lg-8:nth-of-type(1) {
+    padding: 20px 0px 0px 0px;
+}
+
+.col-lg-4:nth-last-of-type(1) {
+    padding: 20px 0px 0px 0px;
+}
+
+.footer {
+    display: flex;
+    color:white;
+    margin-top: 10px;
+}
+.b{
+  
+    margin-left: 75%;
+}
+
+/*
+.row{
+    padding: 15px 0px 0px 0px;
+}*/
